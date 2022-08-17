@@ -1,32 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to my research page
 
 You can use the [editor on GitHub](https://github.com/LoicMasure/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Biography
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Bibliography
+Some recent works (unpublished yet):
+* A Nearly Tight Proof of Duc et al.'s Conjectured Security Bound for Masked Implementations
+* Information Bounds and Convergence Rates for Side-Channel Security Evaluators
+* Don’t Learn What You Already Know: Grey-Box Modeling for Profiling Side-Channel Analysis against Masking
+* Effective and Efficient Masking with Low Noise using Small-Mersenne-Prime Ciphers
+* Side Channel Analysis against the ANSSI’s protected AES implementation on ARM
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Conference papers (in chronological order):
+1. Gradient visualization for general characterization in profiling attacks, COSADE 2019
+2. A comprehensive study of deep learning for side-channel analysis, TCHES 2020
+3. Deep learning side-channel analysis on large-scale traces
 
-- Bulleted
-- List
+Journal papers: 
+1. Efficient profiled side-channel analysis of masked implementations, extended
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Teaching
 
 ### Jekyll Themes
 
