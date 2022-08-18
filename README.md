@@ -25,6 +25,9 @@ You can find an updated list on my [DBLP profile](https://dblp.org/pid/233/0352.
 ### Journal papers: 
 1. **[Efficient profiled side-channel analysis of masked implementations, extended](https://ieeexplore.ieee.org/document/9686688)**, TIFS, with Olivier Bronchain, François Durvaux and François-Xavier Standaert
 
+## Some Talks
+* [Seminar SemSecuElec, INRIA Rennes](https://videos-rennes.inria.fr/video/S1JvR1v9L?sortBy=date&sortOrder=desc&dateStart=1577833200000&dateEnd=1580684400000&query=SemSecuElec&searchInPois=0)
+
 ## Teaching
 * Advanced decision, 30h (Spring 2019, Spring 2020)
 * Advanced quantitative methods for finance, 15h (Spring 2020)
