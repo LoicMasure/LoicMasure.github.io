@@ -9,9 +9,6 @@ My research work is mainly devoted to the study of machine learning for profilin
 
 ## Publications
 You can find an updated list on my [DBLP profile](https://dblp.org/pid/233/0352.html) and my [Google Scholar profile](https://scholar.google.com/citations?user=ELDEEgEAAAAJ&hl=fr).
-### Some recent works (unpublished yet):
-* **[Information Bounds and Convergence Rates for Side-Channel Security Evaluators](https://eprint.iacr.org/2022/490)**, with Gaëtan Cassiers, Julien Hendrickx and François-Xavier Standaert
-* **[Side Channel Analysis against the ANSSI’s protected AES implementation on ARM](https://eprint.iacr.org/2021/592)**, with Rémi Strullu
 
 
 ### Conference papers (in chronological order):
@@ -20,12 +17,16 @@ You can find an updated list on my [DBLP profile](https://dblp.org/pid/233/0352.
 3. **[A Nearly Tight Proof of Duc et al.'s Conjectured Security Bound for Masked Implementations](https://link.springer.com/chapter/10.1007/978-3-031-25319-5_4) [[eprint]](https://eprint.iacr.org/2022/600)**, with Olivier Rioul and François-Xavier Standaert
 4. **[Removing the Field Size Loss from Duc et al.'s Conjectured Bound for Masked Encodings](https://eprint.iacr.org/2022/1738)**, COSADE 2023, with Julien Béguinot, Wei Cheng, Sylvain Guilley, Yi Liu, Olivier Rioul and François-Xavier Standaert
 5. **[Effective and Efficient Masking with Low Noise using Small-Mersenne-Prime Ciphers](https://eprint.iacr.org/2022/863)**, EUROCRYPT 2023, with Pierrick Méaux, Thorben Moos and François-Xavier Standaert
+6. **[Improved Alpha-Information Bounds for Higher-Order Masked Cryptographic Implementations](https://perso.telecom-paristech.fr/rioul/publis/202303liubeguinotchengguilleymasurerioulstandaert.pdf)**, ITW 2023, with Yi Liu, Julien Béguinot, Wei Cheng, Sylvain Guilley, Olivier Rioul and François-Xavier Standaert
+7. **[Prouﬀ & Rivain’s Formal Security Proof of Masking, Revisited: Tight Bounds in the Noisy Leakage Model](https://eprint.iacr.org/2023/883)**, CRYPTO 2023, with François-Xavier Standaert
 
 ### Journal papers: 
 1. **[A comprehensive study of deep learning for side-channel analysis](https://tches.iacr.org/index.php/TCHES/article/view/8402)**, TCHES 2020, with Cécile Dumas and Emmanuel Prouff
 2. **[Efficient profiled side-channel analysis of masked implementations, extended](https://ieeexplore.ieee.org/document/9686688) [[preprint]](https://perso.uclouvain.be/fstandae/PUBLIS/274.pdf)**, TIFS, with Olivier Bronchain, François Durvaux and François-Xavier Standaert
 3. **[Don’t Learn What You Already Know: Grey-Box Modeling for Profiling Side-Channel Analysis against Masking](https://tches.iacr.org/index.php/TCHES/article/view/9946)**, TCHES 2023, with Valence Cristiani, Maxime lecomte and François-Xavier Standaert
 4. **[Prime-Field Masking in Hardware and its Soundness against Low-Noise SCA Attacks](https://dial.uclouvain.be/pr/boreal/object/boreal%3A270925/datastream/PDF_01/view)**, TCHES 2023, with Gaëtan Cassiers, Charles Momin, Thorben Moos and François-Xavier Standaert
+5. **[Side Channel Analysis against the ANSSI’s protected AES implementation on ARM](https://link.springer.com/article/10.1007/s13389-023-00311-7) [[eprint]](https://eprint.iacr.org/2021/592)**, with Rémi Strullu
+6. **[Information Bounds and Convergence Rates for Side-Channel Security Evaluators](https://doi.org/10.46586/tches.v2023.i3.522-569)**, TCHES 2023, with Gaëtan Cassiers, Julien Hendrickx and François-Xavier Standaert
 
 ## Some Talks
 * [Seminar SemSecuElec, INRIA Rennes](https://videos-rennes.inria.fr/video/S1JvR1v9L?sortBy=date&sortOrder=desc&dateStart=1577833200000&dateEnd=1580684400000&query=SemSecuElec&searchInPois=0)
